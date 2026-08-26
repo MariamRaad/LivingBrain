@@ -131,7 +131,7 @@ The result was a more structured onboarding experience that gradually introduced
 - Programmatically integrated and controlled the wooden block animations, including forward and reverse playback triggered by gaze targeting
 - Adapted existing interaction logic to the new gameplay flow
 
-<video src="https://github.com/user-attachments/assets/44782323-e794-4228-8fd9-0158c7d2665a.mp4"></video>
+<video src="https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243.mp4"></video>
 
 #### 4. Audio & Sound Integration
 
