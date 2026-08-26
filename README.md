@@ -102,7 +102,7 @@ The prototype combines shooting mechanics, interactive objects, physics-based in
   - **UFO shield** with projectile interaction and visual hit feedback
 - Implementing the **Freeze Event**, temporarily pausing affected gameplay objects through their physics state
 
-https://github.com/user-attachments/assets/a914ae27-bb89-466f-88b4-56dde5a56e42
+https://github.com/user-attachments/assets/ae4ec8d4-c3bb-41bc-b841-8bbba5957583
 
 #### 2. Custom Cable System
 
