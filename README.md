@@ -129,7 +129,7 @@ The result was a more structured onboarding experience that gradually introduced
 - Extended and adapted the existing quest system
 - Adapted existing interaction logic to the new gameplay flow
 - Programmatically integrated and controlled the wooden block animations, including forward and reverse playback triggered by gaze targeting
-- Implemented new UI panels and visual guidance, including controller guidance UI in collaboration with artists to help users learn which buttons to press and what each input does
+- Implemented new UI panels and visual guidance in collaboration with artists, including controller guidance UI
 
 <video src="https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243.mp4"></video>
 
