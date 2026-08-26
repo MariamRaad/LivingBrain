@@ -106,8 +106,7 @@ The prototype combines shooting mechanics, interactive objects, physics-based in
 
 #### 2. Custom Cable System for Kitchen Coffee Machine
 
-For the kitchen environment, I developed a custom physics-based cable system to replace the previously used third-party solution.
-
+For the kitchen environment, I developed a custom physics-based cable system to replace the previously used third-party plugin. <br>
 The goal was to reduce external dependencies while having more control over the system and its behavior.
 
 **My contribution:**
@@ -117,7 +116,6 @@ The goal was to reduce external dependencies while having more control over the 
 - Designed the cable behavior with **user experience in mind**, including automatic retraction when the cable is stretched too far
 - Tested and evaluated the performance using Meta's OVR Metrics Tool in comparison to the previously used third-party plugin
 
-The result was a reusable cable solution that could be integrated into the existing kitchen interactions without relying on the previous third-party plugin.
 
 <video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video>
 
