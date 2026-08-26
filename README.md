@@ -66,7 +66,8 @@ As a medical device, teora® mind was developed within a regulated environment a
 
 ### General Work
 
-Across the different environments and exercises of teora® mind, I was regularly involved in the implementation and setup of new and existing scenes.  
+Across the different environments and exercises of teora® mind, I was regularly involved in the implementation and setup of new and existing scenes.
+
 This included:  
 - Implementing and maintaining **level and scene structures**, including colliders, respawn areas and scene-specific setup
 - Developing and maintaining the **in-game tablet UI** and its application-wide features
