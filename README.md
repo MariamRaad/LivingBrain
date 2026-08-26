@@ -79,9 +79,9 @@ This included:
 - Implementing application-wide features such as **pause tracking, scene transitions and device status information**
 - Integrating features for communication with **teora® platform** and other parts of the teora® ecosystem
 - Adapting and reworking existing gameplay and interaction systems to new environments
-- Managing and integrating Unity and SDK / plugin updates
-- Troubleshooting and maintaining existing scenes and features
 - Collaborating with artists to integrate and iterate on visual effects and gameplay feedback
+- Updating Unity and project packages while maintaining compatibility with existing systems
+- Supporting **testing, debugging, bug fixing and quality assurance** throughout development within a regulated medical-device environment
 
 ### Selected Work
 
@@ -171,30 +171,33 @@ I contributed to the implementation and expansion of the localization system use
 
 ### Overview
 
-Brief description of the product and its purpose.
+teora® body is a VR application for **upper-extremity movement training**, with a focus on functional movements of the shoulder and elbow. It uses interactive exercises to train mobility, strength and coordination in a motivating way.
 
-TODO it has Hand Tracking, in comparison to teora mind
+Unlike teora® mind, which primarily focuses on cognitive training, teora® body uses **hand tracking** to allow users to interact with the virtual environment using their hands instead of traditional VR controllers.
 
-- VR interactions
-- Gameplay mechanics
-- Physics-based interactions
-- Hand tracking
-- Haptics
-- Modular prefabs
-- UI / UX
-- Localization
-- Audio integration
+The application combines several interactive exercises, including activities such as inflating balloons and controlling a rocket. In total, the application includes **6 exercises**.
+
+I worked on teora® body from November 2024 to July 2025, contributing to the development of the application from the initial project setup through the implementation and refinement of its interactive exercises.
+
+My work focused particularly on **hand tracking integration, VR interactions, reusable systems, UI and gameplay**, as well as localization, audio and general application maintenance.
 
 ### General Work
 
-TODO write that down differently than in teora mind text above
-Across the different environments and exercises of teora® body, I was regularly involved in the implementation and setup of new and existing scenes.  
-This included:  
-- TODO
+Throughout the development of teora® body, I worked on shared systems and features required across the different exercises and environments.
+This included:
+
+- Integrating and adapting **Meta XR Core SDK and Meta XR Interaction SDK** for hand tracking
+- Developing and maintaining **hand-based interactions**, including touch, grab and lever interactions
+- Creating and maintaining **reusable prefabs and interaction components** for use across multiple exercises
+- Reworking the **in-game tablet and UI** for hand-based interaction
+- Integrating and maintaining **localization**, including RTL support and localized assets
+- Editing, integrating and configuring **audio and sound systems** across scenes and interactive objects
+- Updating Unity and project packages while maintaining compatibility with existing systems
+- Supporting **testing, debugging, bug fixing and quality assurance** throughout development
 
 ### Selected Work
 
-#### 1. [Most impressive work result]
+#### 1. Hand Tracking Integration
 
 Short description.
 
@@ -206,11 +209,6 @@ Short description.
 
 [Video / GIF]
 
-#### 3. [Third work result]
-
-Short description.
-
-[Video / GIF]
 
 ---
 
@@ -218,14 +216,18 @@ Short description.
 
 ### Overview
 
-Brief description of the internal tool and its purpose.
-TODO WPF project
+The Device Setup Tool is an internal **WPF desktop application** developed to prepare and configure VR devices for use within the teora® ecosystem.
 
-### Selected Work
+It is used to set up device-specific metadata required for features such as **streaming with teora® supervisor** and integration with **teora® platform**, where devices need to be uniquely associated with their intended use.
 
-#### 1. [Most impressive work result]
+I developed the tool and was responsible for its implementation, maintenance and testing.
 
-Short description.
+### My Contribution
+
+- Developed the application using **.NET and WPF**
+- Implemented communication with VR devices using **Android Debug Bridge (ADB)**
+- Implemented automated tests using **NUnit**
+- Maintained and extended the tool as requirements evolved
 
 [Video / GIF]
 
