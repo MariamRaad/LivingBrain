@@ -119,7 +119,11 @@ The goal was to reduce external dependencies while having more control over the 
 
 The result was a reusable cable solution that could be integrated into the existing kitchen interactions without relying on the previous third-party plugin.
 
-[Video / GIF]
+
+
+https://github.com/user-attachments/assets/7e556ef3-1a3b-4059-94ef-743d726525ea
+
+
 
 #### 3. Tutorial Rework
 
