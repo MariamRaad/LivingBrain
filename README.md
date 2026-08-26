@@ -72,7 +72,7 @@ This included:
 - Implementing and maintaining **level and scene structures**, including colliders, respawn areas and scene-specific setup
 - Developing and maintaining the **in-game tablet UI** and its application-wide features
 - Editing, integrating and configuring **audio and sound systems** across scenes and interactive objects
-- Implementing and maintaining **localization** with multilanguage content, including texts, assets, a language selection and RTL support
+- Implementing and maintaining **localization** with multilanguage content, including texts, assets, a language selection and right-to-left (RTL) support
 - Supporting **multiple VR headsets**, including Meta Quest 2, Quest 3S and Pico 4
 - Implementing and adapting **VR interaction and UI systems**, including pointers, raycasts and controller-specific UI hints
 - Developing reusable and configurable systems and components using **ScriptableObjects** and **Prefabs**
@@ -151,7 +151,19 @@ Particular attention was given to creating believable audio feedback for differe
 
 #### 5. Localization
 
-TODO
+I contributed to the implementation and expansion of the localization system used throughout teora® mind. The system supported localized UI texts and assets across the application, including dynamic content generated at runtime.
+
+**My contribution:**
+- Created and maintained **String Tables and Asset Tables** for multilingual content
+- Integrated and maintained localized UI texts across the application
+- Developed solutions for **dynamic localized strings**, allowing values generated at runtime, such as calculated amounts, to be inserted into localized text
+- Implemented a **custom currency formatter** for use with Unity's Smart Strings
+- Developed localization support for **non-text assets**, including localized materials
+- Implemented and integrated the **language selection UI and its interaction**
+- Contributed to the integration and maintenance of **right-to-left () language support**
+- Established reusable workflows and structures for managing localized content across the application
+
+[Video]
 
 ---
 
