@@ -116,7 +116,6 @@ The goal was to reduce external dependencies while having more control over the 
 - Designed the cable behavior with **user experience in mind**, including automatic retraction when the cable is stretched too far
 - Tested and evaluated the performance using Meta's OVR Metrics Tool in comparison to the previously used third-party plugin
 
-
 <video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video>
 
 #### 3. Tutorial Rework
@@ -129,10 +128,10 @@ The result was a more structured onboarding experience that gradually introduced
 - Reworked the existing gameplay and scene structure
 - Extended and adapted the existing quest system
 - Implemented new UI panels and visual guidance
-- Integrated and controlled animations programmatically
+- Programmatically integrated and controlled the wooden block animations, including forward and reverse playback triggered by gaze targeting
 - Adapted existing interaction logic to the new gameplay flow
 
-[Video / GIF]
+<video src="https://github.com/user-attachments/assets/44782323-e794-4228-8fd9-0158c7d2665a.mp4"></video>
 
 #### 4. Audio & Sound Integration
 
