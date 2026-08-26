@@ -104,7 +104,7 @@ The prototype combines shooting mechanics, interactive objects, physics-based in
 
 https://github.com/user-attachments/assets/ae4ec8d4-c3bb-41bc-b841-8bbba5957583
 
-#### 2. Custom Cable System
+#### 2. Custom Cable System for Kitchen Coffee Machine
 
 For the kitchen environment, I developed a custom physics-based cable system to replace the previously used third-party solution.
 
