@@ -102,9 +102,7 @@ The prototype combines shooting mechanics, interactive objects, physics-based in
   - **UFO shield** with projectile interaction and visual hit feedback
 - Implementing the **Freeze Event**, temporarily pausing affected gameplay objects through their physics state
 
-https://github.com/user-attachments/assets/ae4ec8d4-c3bb-41bc-b841-8bbba5957583
-
-<video width="630" height="300" src="https://github.com/user-attachments/assets/ae4ec8d4-c3bb-41bc-b841-8bbba5957583.mp4"></video>
+<video src="https://github.com/user-attachments/assets/ae4ec8d4-c3bb-41bc-b841-8bbba5957583.mp4"></video>
 
 #### 2. Custom Cable System for Kitchen Coffee Machine
 
@@ -121,7 +119,7 @@ The goal was to reduce external dependencies while having more control over the 
 
 The result was a reusable cable solution that could be integrated into the existing kitchen interactions without relying on the previous third-party plugin.
 
-https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a
+<video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video>
 
 #### 3. Tutorial Rework
 
