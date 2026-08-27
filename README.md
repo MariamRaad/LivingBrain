@@ -2,12 +2,9 @@
 
 > ⚠️ **Disclaimer**
 >
-> This repository is a personal portfolio showcasing selected work and contributions from my time at **living brain GmbH**.
->
-> Due to confidentiality, intellectual property, and data protection requirements, this repository does **not** contain proprietary source code, internal documentation, patient data, customer data, or other confidential company information.
->
-> The examples, screenshots, videos, and descriptions shown here have been carefully selected and anonymized where necessary. They are intended to demonstrate my technical experience, responsibilities, and contributions without exposing confidential company information.
->
+> This repository is a personal portfolio showcasing selected work and contributions from my time at **living brain GmbH**.  
+> Due to confidentiality, intellectual property, and data protection requirements, this repository does **not** contain proprietary source code, internal documentation, patient data, customer data, or other confidential company information.  
+> The examples, screenshots, videos, and descriptions shown here have been carefully selected and anonymized where necessary. They are intended to demonstrate my technical experience, responsibilities, and contributions without exposing confidential company information.  
 > All rights to the original products, software, assets, trademarks, and other intellectual property remain with their respective owners.
 
 ---
@@ -194,7 +191,7 @@ This included:
 - Developing and maintaining **hand-based interactions**, including touch, grab and lever interactions
 - Creating and maintaining **reusable prefabs and interaction components** for use across multiple exercises
 - Reworking the **in-game tablet and UI** for hand-based interaction
-- Integrating and maintaining **localization**, including RTL support and localized assets
+- Integrating and maintaining **localization**, including right-to-left (RTL) support and localized assets
 - Editing, integrating and configuring **audio and sound systems** across scenes and interactive objects
 - Updating Unity and project packages while maintaining compatibility with existing systems
 - Supporting **testing, debugging, bug fixing and quality assurance** throughout development
