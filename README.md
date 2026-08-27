@@ -147,11 +147,13 @@ Particular attention was given to creating believable audio feedback for differe
 - Integrated and configured sound components across scenes and reusable prefabs
 - Continuously maintained and extended the audio setup as new content was added
 
+In the video below, different collision sounds can be heard for materials such as **wood, stone, glass and metal**. The sound feedback also adapts dynamically based on the intensity of the collision.
+
 [Video / GIF]
 
 #### 5. Localization
 
-I contributed to the implementation and expansion of the localization system used throughout teora® mind. The system supported localized UI texts and assets across the application, including dynamic content generated at runtime.
+I contributed to the implementation and expansion of the localization system used throughout teora® mind. The system supported localized UI texts and assets across the application, including dynamic content generated at runtime, and was designed to support **12 languages**.
 
 **My contribution:**
 - Created and maintained **String Tables and Asset Tables** for multilingual content
@@ -160,10 +162,12 @@ I contributed to the implementation and expansion of the localization system use
 - Implemented a **custom currency formatter** for use with Unity's Smart Strings
 - Developed localization support for **non-text assets**, including localized materials
 - Implemented and integrated the **language selection UI and its interaction**
-- Contributed to the integration and maintenance of **right-to-left () language support**
+- Contributed to the integration and maintenance of **right-to-left (RTL) language support**
 - Established reusable workflows and structures for managing localized content across the application
 
-[Video]
+The video below shows different UI elements updating when switching between languages. Towards the end, it also demonstrates RTL support, including mirrored tablet layouts and UI elements adapted to the right-to-left reading direction.
+
+<video src="https://github.com/user-attachments/assets/f46a2e84-951a-4173-b61c-cc05e37a7f55.mp4"></video>
 
 ---
 
