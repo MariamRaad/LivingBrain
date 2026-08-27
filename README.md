@@ -167,7 +167,7 @@ I contributed to the implementation and expansion of the localization system use
 
 The video below shows different UI elements updating when switching between languages. Towards the end, it also demonstrates RTL support, including mirrored tablet layouts and UI elements adapted to the right-to-left reading direction.
 
-<video src="https://github.com/user-attachments/assets/f46a2e84-951a-4173-b61c-cc05e37a7f55.mp4"></video>
+<video src="https://github.com/user-attachments/assets/6c2eb8e6-06c5-40f6-b7e7-e75d01304861.mp4"></video>
 
 ---
 
