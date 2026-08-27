@@ -107,11 +107,11 @@ For the kitchen environment, I developed a custom physics-based cable system to 
 The goal was to reduce external dependencies while having more control over the system and its behavior.
 
 **My contribution:**
-- Designed and implemented the cable system using Unity physics, rigidbodies and joints
-- Created the cable mesh procedurally based on the physical cable structure
+- Designed and implemented the cable system using **Unity physics, rigidbodies and joints**
+- Created the **cable mesh procedurally** based on the physical cable structure
 - Integrated the system with existing VR interactions
 - Designed the cable behavior with **user experience in mind**, including automatic retraction when the cable is stretched too far
-- Tested and evaluated the performance using Meta's OVR Metrics Tool in comparison to the previously used third-party plugin
+- Tested and evaluated the **performance using Meta's OVR Metrics Tool** in comparison to the previously used third-party plugin
 
 <video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video>
 
@@ -122,11 +122,11 @@ The existing tutorial flow was completely replaced with a new concept consisting
 The result was a more structured onboarding experience that gradually introduced users to the application's interactions and mechanics.
 
 **My contribution:**
-- Reworked the existing gameplay and scene structure
-- Extended and adapted the existing quest system
-- Adapted existing interaction logic to the new gameplay flow
-- Programmatically integrated and controlled the wooden block animations, including forward and reverse playback triggered by gaze targeting
-- Implemented new UI panels and visual guidance in collaboration with artists, including controller guidance UI
+- Reworked the existing **gameplay and scene structure**
+- Extended and adapted the existing **quest system**
+- Adapted existing **interaction logic** to the new gameplay flow
+- Programmatically integrated and controlled the **wooden block animations**, including forward and reverse playback triggered by gaze targeting
+- Implemented new **UI panels and visual guidance** in collaboration with artists, including controller guidance UI
 
 <video src="https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243.mp4"></video>
 
@@ -137,12 +137,11 @@ I worked closely with another developer on the sound system used throughout teor
 Particular attention was given to creating believable audio feedback for different materials and interactions, helping to make physical interactions in VR feel more natural and immersive.
 
 **My contribution:**
-- Researched and selected suitable sound effects, including a large library of material-specific sounds
-- Edited and prepared audio assets using Audacity
-- Established workflows and naming conventions for organizing and integrating audio assets
-- Organized sounds based on material and interaction type
-- Integrated and configured sound components across scenes and reusable prefabs
-- Continuously maintained and extended the audio setup as new content was added
+- Researched and selected **suitable sound effects**, including lots of material-specific sounds
+- Edited and prepared **audio assets using Audacity**
+- Established **workflows and naming conventions** for organizing and integrating audio assets
+- Integrated and configured **sound components across scenes and reusable prefabs**
+- Continuously **maintained and extended** the audio setup as new content was added
 
 In the video below, different collision sounds can be heard for materials such as **glass, stone, plastic and metal**. The sound feedback also adapts dynamically based on the intensity of the collision.
 
@@ -154,7 +153,7 @@ I contributed to the implementation and expansion of the localization system use
 
 **My contribution:**
 - Created and maintained **String Tables and Asset Tables** for multilingual content
-- Integrated and maintained localized UI texts across the application
+- Integrated and maintained **localized UI texts across the application**
 - Developed solutions for **dynamic localized strings**, allowing values generated at runtime, such as calculated amounts, to be inserted into localized text
 - Implemented a **custom currency formatter** for use with Unity's Smart Strings
 - Developed localization support for **non-text assets**, including localized materials
