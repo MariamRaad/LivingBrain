@@ -211,6 +211,8 @@ This video provides an overview of several interactive exercises in teora® body
 - **Ice Cream Stacking**: catching and stacking objects to build a complete ice cream tower, reworked the mechanics to work with hand tracking
 - **Chain Smashing**: physically interacting with and breaking incoming objects on a conveyor belt, reworked the mechanics to work with hand tracking
 
+
+<video src="https://github.com/user-attachments/assets/bf8c2623-554e-4b1d-9898-a13d7f8de12f.mp4"></video>
 <video src="https://github.com/user-attachments/assets/ce1a8ba6-500f-42b8-8909-6e0496386ce1.mp4"></video>
 
 ---
