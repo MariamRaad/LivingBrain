@@ -206,10 +206,10 @@ This included:
 
 This video provides an overview of several interactive exercises in teora® body and some of the systems I worked on throughout the application:
 - **Hand Tracking and tablet interaction**, including localized UI content
-- **Rocket Guiding**: implemented the visual rope and its color feedback, collectables visual cue (speechbubble), contributed to the hover button animations and general interaction design
+- **Rocket Guiding**: implemented the fading out of the small planet when the rocket starts, the visual rope belonging to the rocket, its color feedback, sound as well as collectables visual cue (speechbubble), contributed to the hover button and astronaut animations and general interaction design
 - **Inflating Balloons**: contributed to the interactive balloon inflation, including different outcomes when balloons are released and flying away or when balloons are overinflated and pop
-- **Ice Cream Stacking**: catching and stacking objects to build a complete ice cream tower, reworked the mechanics to work with hand tracking
-- **Chain Smashing**: physically interacting with and breaking incoming objects on a conveyor belt, reworked the mechanics to work with hand tracking
+- **Ice Cream Stacking**: catching and stacking objects to build a complete ice cream tower, reworked the mechanics to work with hand tracking, implemented spawn system and the shadows of falling items
+- **Chain Smashing**: physically interacting with and breaking incoming objects on a conveyor belt, reworked the mechanics to work with hand tracking, implemented conveyor belt movement with texture offset, integrated point system and its displays
 
 <video src="https://github.com/user-attachments/assets/ce1a8ba6-500f-42b8-8909-6e0496386ce1.mp4"></video>
 
