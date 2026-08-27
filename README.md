@@ -166,6 +166,10 @@ The video below shows different UI elements updating when switching between lang
 
 <video src="https://github.com/user-attachments/assets/6c2eb8e6-06c5-40f6-b7e7-e75d01304861.mp4"></video>
 
+The screenshot shows different assets with localized materials that are automatically switched based on the selected language.
+
+<img width="750" alt="teora_localized_assets" src="https://github.com/user-attachments/assets/092bee8b-1d1a-4aa6-87e3-19cfee5cdbea" />
+
 ---
 
 ## 2. teora® body
