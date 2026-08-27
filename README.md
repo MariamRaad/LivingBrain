@@ -144,9 +144,9 @@ Particular attention was given to creating believable audio feedback for differe
 - Integrated and configured sound components across scenes and reusable prefabs
 - Continuously maintained and extended the audio setup as new content was added
 
-In the video below, different collision sounds can be heard for materials such as **wood, stone, glass and metal**. The sound feedback also adapts dynamically based on the intensity of the collision.
+In the video below, different collision sounds can be heard for materials such as **glass, stone and metal**. The sound feedback also adapts dynamically based on the intensity of the collision.
 
-[Video / GIF]
+<video src="https://github.com/user-attachments/assets/9bb1cf9e-b63a-4fa2-9469-746347fc20fa.mp4"></video>
 
 #### 5. Localization
 
@@ -168,7 +168,7 @@ The video below shows different UI elements updating when switching between lang
 
 The screenshot shows different assets with localized materials that are automatically switched based on the selected language.
 
-<img width="750" alt="teora_localized_assets" src="https://github.com/user-attachments/assets/092bee8b-1d1a-4aa6-87e3-19cfee5cdbea" />
+<img width="750" alt="teora_localized_assets" src="https://github.com/user-attachments/assets/092bee8b-1d1a-4aa6-87e3-19cfee5cdbea"/>
 
 ---
 
