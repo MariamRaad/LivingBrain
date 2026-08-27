@@ -130,9 +130,9 @@ The result was a more structured onboarding experience that gradually introduced
 
 <video src="https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243.mp4"></video>
 
-#### 4. Audio & Sound Integration
+#### 4. Custom Sound System
 
-I worked closely with another developer on the audio system used throughout teora® mind. While the underlying sound system was developed by my colleague, we collaborated on its design and integration into the application. The system used a material-based sound matrix with **50+ sound combinations**, covering different material interactions for collision sounds as well as grab and snap sounds for interactable objects.
+I worked closely with another developer on the sound system used throughout teora® mind. While the underlying system was developed by my colleague, we collaborated on its design and integration into the application. The system used a material-based sound matrix with **50+ sound combinations**, covering different material interactions for collision sounds as well as grab and snap sounds for interactable objects.
 
 Particular attention was given to creating believable audio feedback for different materials and interactions, helping to make physical interactions in VR feel more natural and immersive.
 
@@ -144,7 +144,7 @@ Particular attention was given to creating believable audio feedback for differe
 - Integrated and configured sound components across scenes and reusable prefabs
 - Continuously maintained and extended the audio setup as new content was added
 
-In the video below, different collision sounds can be heard for materials such as **glass, stone and metal**. The sound feedback also adapts dynamically based on the intensity of the collision.
+In the video below, different collision sounds can be heard for materials such as **glass, stone, plastic and metal**. The sound feedback also adapts dynamically based on the intensity of the collision.
 
 <video src="https://github.com/user-attachments/assets/9bb1cf9e-b63a-4fa2-9469-746347fc20fa.mp4"></video>
 
