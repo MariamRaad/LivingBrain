@@ -222,7 +222,7 @@ Short description.
 
 The Device Setup Tool is an internal **WPF desktop application** developed to prepare and configure VR devices for use within the teora® ecosystem.
 
-It is used to set up device-specific metadata required for features such as **streaming with teora® supervisor** and integration with **teora® platform**, where devices need to be uniquely associated with their intended use.
+It is used to set up device-specific metadata required for features such as **streaming with teora® supervisor** and integration with **teora® platform**, where devices need to be uniquely associated with their intended use. The goal was to provide a **clean and quick setup process for every VR device before shipping to customers**.
 
 I developed the tool and was responsible for its implementation, maintenance and testing.
 
@@ -233,6 +233,6 @@ I developed the tool and was responsible for its implementation, maintenance and
 - Implemented automated tests using **NUnit**
 - Maintained and extended the tool as requirements evolved
 
-[Video / GIF]
+<video src="https://github.com/user-attachments/assets/55114b43-09b2-4933-b481-38385b7157e0.mp4"></video>
 
 ---
