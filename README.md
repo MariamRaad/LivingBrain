@@ -3,9 +3,7 @@
 > ⚠️ **Disclaimer**
 >
 > This repository is a personal portfolio showcasing selected work and contributions from my time at **living brain GmbH**.  
-> Due to confidentiality, intellectual property, and data protection requirements, this repository does **not** contain proprietary source code, internal documentation, patient data, customer data, or other confidential company information.  
-> The examples, screenshots, videos, and descriptions shown here have been carefully selected and anonymized where necessary. They are intended to demonstrate my technical experience, responsibilities, and contributions without exposing confidential company information.  
-> All rights to the original products, software, assets, trademarks, and other intellectual property remain with their respective owners.
+> Due to confidentiality, intellectual property and data protection requirements, this repository does **not** contain proprietary source code, internal documentation, patient or customer data, or other confidential company information. The examples of screenshots, videos and descriptions shown here have been carefully selected and are intended to demonstrate my technical experience, responsibilities, and contributions without exposing confidential company information. All rights to the original products, software, assets, trademarks, and other intellectual property remain with their respective owners.
 
 ---
 
