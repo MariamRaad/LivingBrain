@@ -99,21 +99,7 @@ The prototype combines shooting mechanics, interactive objects, physics-based in
 
 <video src="https://github.com/user-attachments/assets/ae4ec8d4-c3bb-41bc-b841-8bbba5957583.mp4"></video>
 
-#### 2. Custom Cable System for Kitchen Coffee Machine
-
-For the kitchen environment, I developed a custom physics-based cable system to replace the previously used third-party plugin. <br>
-The goal was to reduce external dependencies while having more control over the system and its behavior.
-
-**My contribution:**
-- Designed and implemented the cable system using **Unity physics, rigidbodies and joints**
-- Created the **cable mesh procedurally** based on the physical cable structure
-- Integrated the system with existing VR interactions
-- Designed the cable behavior with **user experience in mind**, including automatic retraction when the cable is stretched too far
-- Tested and evaluated the **performance using Meta's OVR Metrics Tool** in comparison to the previously used third-party plugin
-
-<video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video>
-
-#### 3. Tutorial Rework
+#### 2. Tutorial Rework
 
 The existing tutorial flow was completely replaced with a new concept consisting of a guided tutorial and a separate recycling section. We wanted to provide a clearer and more accessible introduction to the VR application.
 
@@ -128,7 +114,7 @@ The result was a more structured onboarding experience that gradually introduced
 
 <video src="https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243.mp4"></video>
 
-#### 4. Custom Sound System
+#### 3. Custom Sound System
 
 I worked closely with another developer on the sound system used throughout teora® mind. While the underlying system was developed by my colleague, we collaborated on its design and integration into the application. The system used a material-based sound matrix with **50+ sound combinations**, covering different material interactions for collision sounds as well as grab and snap sounds for interactable objects.
 
@@ -145,7 +131,7 @@ In the video below, different collision sounds can be heard for materials such a
 
 <video src="https://github.com/user-attachments/assets/9bb1cf9e-b63a-4fa2-9469-746347fc20fa.mp4"></video>
 
-#### 5. Localization
+#### 4. Localization
 
 I contributed to the implementation and expansion of the localization system used throughout teora® mind. The system supported localized UI texts and assets across the application, including dynamic content generated at runtime, and was designed to support **12 languages**.
 
@@ -167,6 +153,19 @@ The screenshot shows different assets with localized materials that are automati
 
 <img width="750" alt="teora_localized_assets" src="https://github.com/user-attachments/assets/092bee8b-1d1a-4aa6-87e3-19cfee5cdbea"/>
 
+#### 5. Custom Cable System for Kitchen Coffee Machine
+
+For the kitchen environment, I developed a custom physics-based cable system to replace the previously used third-party plugin. <br>
+The goal was to reduce external dependencies while having more control over the system and its behavior.
+
+**My contribution:**
+- Designed and implemented the cable system using **Unity physics, rigidbodies and joints**
+- Created the **cable mesh procedurally** based on the physical cable structure
+- Integrated the system with existing VR interactions
+- Designed the cable behavior with **user experience in mind**, including automatic retraction when the cable is stretched too far
+- Tested and evaluated the **performance using Meta's OVR Metrics Tool** in comparison to the previously used third-party plugin
+
+<video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video>
 ---
 
 ## 2. teora® body
