@@ -13,10 +13,10 @@ I joined living brain in 2020 and progressed from an internship to a Senior Soft
 
 | Period | Role |
 |---|---|
-| Sep 2020 – Aug 2021 | **Unity 3D Developer (Internship)** |
-| Sep 2021 – Aug 2023 | **Junior Unity Developer** |
-| Sep 2023 – Sep 2024 | **Unity Developer** |
-| Oct 2024 – Sep 2026 | **Senior Software Engineer** |
+| Sep 2020 - Aug 2021 | **Unity 3D Developer (Internship)** |
+| Sep 2021 - Aug 2023 | **Junior Unity Developer** |
+| Sep 2023 - Sep 2024 | **Unity Developer** |
+| Oct 2024 - Sep 2026 | **Senior Software Engineer** |
 
 During my time at living brain, I worked across software development, product development as well as selected quality and regulatory activities.
 
