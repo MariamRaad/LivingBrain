@@ -4,7 +4,6 @@
 >
 > This repository is a personal portfolio showcasing selected work and contributions from my time at **living brain GmbH**.  
 > Due to confidentiality, intellectual property and data protection requirements, this repository does **not** contain proprietary source code, internal documentation, patient or customer data, or other confidential company information. The examples of screenshots, videos and descriptions shown here have been carefully selected and are intended to demonstrate my technical experience, responsibilities, and contributions without exposing confidential company information. All rights to the original products, software, assets, trademarks, and other intellectual property remain with their respective owners.
-
 ---
 
 ## My Role
@@ -39,8 +38,6 @@ My work covered:
 - Quality Management, validation and product testing
 - Regulatory and medical-device-related activities as well as audit support
 - Organizational and administrative support
-
----
 
 # Projects & Responsibilities
 
@@ -165,7 +162,6 @@ The goal was to reduce external dependencies while having more control over the 
 - Tested and evaluated the **performance using Meta's OVR Metrics Tool** in comparison to the previously used third-party plugin
 
 <video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video>
----
 
 ## 2. teora® body
 
@@ -208,8 +204,6 @@ This video provides an overview of several interactive exercises in teora® body
 
 <video src="https://github.com/user-attachments/assets/ce1a8ba6-500f-42b8-8909-6e0496386ce1.mp4"></video>
 
----
-
 ## 3. Device Setup Tool
 
 ### Overview
@@ -228,8 +222,6 @@ I developed the tool and was responsible for its implementation, maintenance and
 - Maintained and extended the tool as requirements evolved
 
 <video src="https://github.com/user-attachments/assets/55114b43-09b2-4933-b481-38385b7157e0.mp4"></video>
-
----
 
 ## 4. Quality Management & Regulatory Processes
 
