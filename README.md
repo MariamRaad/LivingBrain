@@ -39,6 +39,12 @@ My work covered:
 - Regulatory and medical-device-related activities as well as audit support
 - Organizational and administrative support
 
+**Project highlights:**
+[teora® mind](#1-teora-mind) ·
+[teora® body](#2-teora-body) ·
+[Device Setup Tool](#3-device-setup-tool) ·
+[Quality Management](#4-quality-management--regulatory-processes)
+
 # Projects & Responsibilities
 
 ## 1. teora® mind
@@ -53,7 +59,7 @@ The application consists of multiple interactive environments and exercises, inc
 
 I worked on teora® mind throughout my entire time at living brain since it is the main product, contributing to the development and continuous evolution of the application as a Unity Developer / Software Engineer.
 
-As a medical device, teora® mind was developed within a regulated environment and is a **Class IIa medical device under the European Medical Device Regulation (MDR)**. Alongside software development, I was involved in quality management and regulatory activities, including software validation, product testing, documentation and audit support. From around 2024, I took on additional responsibilities within the internal QM team, coordinating recurring activities, planning, preparing and supporting internal and external audits as well as following up on QMS changes and actions arising from cross-functional discussions.
+As a medical device, teora® mind was developed within a regulated environment and is a **Class IIa medical device under the European Medical Device Regulation (MDR)**. Alongside software development, I was involved in [quality management](#4-quality-management--regulatory-processes) and regulatory activities, including software validation, product testing, documentation and audit support. From around 2025, I took on additional responsibilities within the internal QM team, coordinating recurring activities, planning, preparing and supporting internal and external audits as well as following up on QMS changes and actions arising from cross-functional discussions.
 
 ### General Work
 
@@ -227,7 +233,7 @@ I developed the tool and was responsible for its implementation, maintenance and
 
 After the previous Head of Development/CTO left the company in 2024, their responsibilities were redistributed across the team. As I had already begun taking on more organizational and quality-related tasks, I became the **main internal point of contact for the quality management team**, as the most suitable successor from within the team. Therefore around 2025, alongside my software development work, I took on additional responsibilities within the internal quality management team at living brain.
 
-Since teora® mind was a Class IIa medical device, development was closely connected to documented processes, validation activities and regulatory requirements. Working closely with the QMB/PRRC and colleagues responsible for individual subject areas, I coordinated recurring QM activities, brought together input from different colleagues, and followed up on decisions and resulting actions.
+Since [teora® mind](#1-teora-mind) was a Class IIa medical device, development was closely connected to documented processes, validation activities and regulatory requirements. Working closely with the QMB/PRRC and colleagues responsible for individual subject areas, I coordinated recurring QM activities, brought together input from different colleagues, and followed up on decisions and resulting actions.
 
 This included organizing and conducting weekly QM meetings, coordinating QMS changes, supporting tool validations, and contributing to activities such as data analysis, cybersecurity screenings and management reviews. I also helped maintain parts of the technical documentation, supported risk management discussions and day-to-day issues, and helped organize and carry out activities before, during and after internal and external audits.
 
