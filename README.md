@@ -55,9 +55,9 @@ Instead of relying primarily on abstract cognitive exercises, teora® mind uses 
 
 The application consists of multiple interactive environments and exercises, including a kitchen, beach and garden, as well as dedicated mini-games. In total, the product includes **17 exercises and 3 mini-games**.
 
-I worked on teora® mind throughout my entire time at living brain, contributing to the development and continuous evolution of the application as a Unity Developer / Software Engineer.
+I worked on teora® mind throughout my entire time at living brain since it is the main product, contributing to the development and continuous evolution of the application as a Unity Developer / Software Engineer.
 
-As a medical device, teora® mind was developed within a regulated environment and is a **Class IIa medical device under the European Medical Device Regulation (MDR)**. In addition to software development, I was involved in quality management and regulatory activities, including software validation, product testing, documentation, QMS changes, and the planning, preparation and support of internal and external audits.
+As a medical device, teora® mind was developed within a regulated environment and is a **Class IIa medical device under the European Medical Device Regulation (MDR)**. In addition to software development, I was involved in quality management and regulatory activities, including software validation, product testing, documentation, QMS changes and the planning, preparation and support of internal and external audits.
 
 ### General Work
 
