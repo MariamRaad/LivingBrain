@@ -100,7 +100,7 @@ The prototype combines shooting mechanics, interactive objects, physics-based in
   - **UFO shield** with projectile interaction and visual hit feedback
 - Implementing the **Freeze Event**, temporarily pausing affected gameplay objects through their physics state
 
-<video src="https://github.com/user-attachments/assets/ae4ec8d4-c3bb-41bc-b841-8bbba5957583.mp4"></video>
+<video src="https://github.com/user-attachments/assets/f9309e75-1807-419f-9f33-6aad225e3572.mp4"></video>
 
 #### Tutorial Rework
 
