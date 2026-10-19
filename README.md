@@ -100,7 +100,8 @@ The prototype combines shooting mechanics, interactive objects, physics-based in
   - **UFO shield** with projectile interaction and visual hit feedback
 - Implementing the **Freeze Event**, temporarily pausing affected gameplay objects through their physics state
 
-<video src="https://github.com/user-attachments/assets/f9309e75-1807-419f-9f33-6aad225e3572.mp4"></video>
+<!-- <video src="https://github.com/user-attachments/assets/f9309e75-1807-419f-9f33-6aad225e3572.mp4"></video> -->
+https://github.com/user-attachments/assets/f9309e75-1807-419f-9f33-6aad225e3572
 
 #### Tutorial Rework
 
@@ -115,7 +116,8 @@ The result was a more structured onboarding experience that gradually introduced
 - Programmatically integrated and controlled the **wooden block animations**, including forward and reverse playback triggered by gaze targeting
 - Implemented new **UI panels and visual guidance** in collaboration with artists, including controller guidance UI
 
-<video src="https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243.mp4"></video>
+<!-- <video src="https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243.mp4"></video> -->
+https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243
 
 #### Custom Sound System
 
@@ -132,7 +134,8 @@ Particular attention was given to creating believable audio feedback for differe
 
 In the video below, different collision sounds can be heard for materials such as **glass, stone, plastic and metal**. The sound feedback also adapts dynamically based on the intensity of the collision.
 
-<video src="https://github.com/user-attachments/assets/9bb1cf9e-b63a-4fa2-9469-746347fc20fa.mp4"></video>
+<!-- <video src="https://github.com/user-attachments/assets/9bb1cf9e-b63a-4fa2-9469-746347fc20fa.mp4"></video> -->
+https://github.com/user-attachments/assets/9bb1cf9e-b63a-4fa2-9469-746347fc20fa
 
 #### Localization
 
@@ -150,7 +153,8 @@ I contributed to the implementation and expansion of the localization system use
 
 The video below shows different UI elements updating when switching between languages. Towards the end, it also demonstrates RTL support, including mirrored tablet layouts and UI elements adapted to the right-to-left reading direction.
 
-<video src="https://github.com/user-attachments/assets/6c2eb8e6-06c5-40f6-b7e7-e75d01304861.mp4"></video>
+<!-- <video src="https://github.com/user-attachments/assets/6c2eb8e6-06c5-40f6-b7e7-e75d01304861.mp4"></video> -->
+https://github.com/user-attachments/assets/6c2eb8e6-06c5-40f6-b7e7-e75d01304861
 
 The screenshot shows different assets with localized materials that are automatically switched based on the selected language.
 
@@ -168,7 +172,8 @@ The goal was to reduce external dependencies while having more control over the 
 - Designed the cable behavior with **user experience in mind**, including automatic retraction when the cable is stretched too far
 - Tested and evaluated the **performance using Meta's OVR Metrics Tool** in comparison to the previously used third-party plugin
 
-<video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video>
+<!-- <video src="https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a.mp4"></video> -->
+https://github.com/user-attachments/assets/9226f276-97a0-4a33-9236-449ce288868a
 
 ## 2. teora® body
 
@@ -209,7 +214,8 @@ This video provides an overview of several interactive exercises in teora® body
 - **Ice Cream Stacking**: catching and stacking objects to build a complete ice cream tower, reworked the mechanics to work with hand tracking, implemented spawn system and the shadows of falling items
 - **Chain Smashing**: physically interacting with and breaking incoming objects on a conveyor belt, reworked the mechanics to work with hand tracking, implemented conveyor belt movement with texture offset, integrated point system and its displays
 
-<video src="https://github.com/user-attachments/assets/ce1a8ba6-500f-42b8-8909-6e0496386ce1.mp4"></video>
+<!-- <video src="https://github.com/user-attachments/assets/ce1a8ba6-500f-42b8-8909-6e0496386ce1.mp4"></video> -->
+https://github.com/user-attachments/assets/ce1a8ba6-500f-42b8-8909-6e0496386ce1
 
 ## 3. Device Setup Tool
 
@@ -228,7 +234,8 @@ I developed the tool and was responsible for its implementation, maintenance and
 - Implemented automated tests using **NUnit**
 - Maintained and extended the tool as requirements evolved
 
-<video src="https://github.com/user-attachments/assets/55114b43-09b2-4933-b481-38385b7157e0.mp4"></video>
+<!-- <video src="https://github.com/user-attachments/assets/55114b43-09b2-4933-b481-38385b7157e0.mp4"></video> -->
+https://github.com/user-attachments/assets/55114b43-09b2-4933-b481-38385b7157e0
 
 ## 4. Quality Management & Regulatory Processes
 
