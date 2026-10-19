@@ -26,20 +26,20 @@ C# · Unity 3D · Visual Studio · .NET / WPF · Meta Quest · Pico · Git / Git
 
 My work covered:
 
-- Unity 3D software development
-- Feature planning, design and implementation
-- VR training environments and interactive scenarios
+- Unity 3D software development, feature planning, design and implementation
+- VR training environments and interactive scenarios and systems (using VRTK)
 - Audio and sound design, integration and implementation
 - Localization and multilingual application support
-- Software maintenance and further development
+- Software maintenance, debugging and cross-platform VR support (Meta Quest and Pico)
 - Internal tools and software libraries
-- Debugging and problem solving
 - Software documentation
 - Technical customer support via email, phone and on-site
 - Quality Management, validation and product testing
-- Regulatory and medical-device-related activities
-- Product testing and audit support
+- Regulatory and medical-device-related activities as well as audit support
 - Organizational and administrative support
+
+
+In 2026, a new owner acquired living brain's assets, including the teora products, through an asset deal.
 
 ---
 
