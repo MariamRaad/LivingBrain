@@ -39,13 +39,14 @@ My work covered:
 - Regulatory and medical-device-related activities as well as audit support
 - Organizational and administrative support
 
+
+# Projects & Responsibilities
+
 **Project highlights:**
 [teora® mind](#1-teora-mind) ·
 [teora® body](#2-teora-body) ·
 [Device Setup Tool](#3-device-setup-tool) ·
 [Quality Management](#4-quality-management--regulatory-processes)
-
-# Projects & Responsibilities
 
 ## 1. teora® mind
 
