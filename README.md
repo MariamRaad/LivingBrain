@@ -18,7 +18,9 @@ I joined living brain in 2020 and progressed from an internship to a Senior Soft
 | Sep 2023 - Sep 2024 | **Unity Developer** |
 | Oct 2024 - Sep 2026 | **Senior Software Engineer** |
 
-During my time at living brain, I worked across software development, product development as well as selected quality and regulatory activities.
+During my time at living brain, I worked across software development, product development as well as selected quality and regulatory activities.  
+In 2026, a new owner acquired living brain's assets, including the teora products, through an asset deal.
+
 
 I mainly worked with:
 
@@ -38,12 +40,9 @@ My work covered:
 - Regulatory and medical-device-related activities as well as audit support
 - Organizational and administrative support
 
-
-In 2026, a new owner acquired living brain's assets, including the teora products, through an asset deal.
-
 ---
 
-# Projects
+# Projects & Responsibilities
 
 ## 1. teora® mind
 
@@ -57,7 +56,7 @@ The application consists of multiple interactive environments and exercises, inc
 
 I worked on teora® mind throughout my entire time at living brain since it is the main product, contributing to the development and continuous evolution of the application as a Unity Developer / Software Engineer.
 
-As a medical device, teora® mind was developed within a regulated environment and is a **Class IIa medical device under the European Medical Device Regulation (MDR)**. In addition to software development, I was involved in quality management and regulatory activities, including software validation, product testing, documentation, QMS changes and the planning, preparation and support of internal and external audits.
+As a medical device, teora® mind was developed within a regulated environment and is a **Class IIa medical device under the European Medical Device Regulation (MDR)**. Alongside software development, I was involved in quality management and regulatory activities, including software validation, product testing, documentation and audit support. From around 2024, I took on additional responsibilities within the internal QM team, coordinating recurring activities, planning, preparing and supporting internal and external audits as well as following up on QMS changes and actions arising from cross-functional discussions.
 
 ### General Work
 
@@ -80,7 +79,7 @@ This included:
 
 ### Selected Work
 
-#### 1. Minigame Shooting (Prototype)
+#### Minigame Shooting (Prototype)
 
 I developed gameplay features and interactive systems for a shooting-based VR minigame. This level was still under development and was not completed as a finished product.
 
@@ -99,7 +98,7 @@ The prototype combines shooting mechanics, interactive objects, physics-based in
 
 <video src="https://github.com/user-attachments/assets/ae4ec8d4-c3bb-41bc-b841-8bbba5957583.mp4"></video>
 
-#### 2. Tutorial Rework
+#### Tutorial Rework
 
 The existing tutorial flow was completely replaced with a new concept consisting of a guided tutorial and a separate recycling section. We wanted to provide a clearer and more accessible introduction to the VR application.
 
@@ -114,7 +113,7 @@ The result was a more structured onboarding experience that gradually introduced
 
 <video src="https://github.com/user-attachments/assets/67d8dc8f-a996-40ad-a3bd-c99e67235243.mp4"></video>
 
-#### 3. Custom Sound System
+#### Custom Sound System
 
 I worked closely with another developer on the sound system used throughout teora® mind. While the underlying system was developed by my colleague, we collaborated on its design and integration into the application. The system used a material-based sound matrix with **50+ sound combinations**, covering different material interactions for collision sounds as well as grab and snap sounds for interactable objects.
 
@@ -131,7 +130,7 @@ In the video below, different collision sounds can be heard for materials such a
 
 <video src="https://github.com/user-attachments/assets/9bb1cf9e-b63a-4fa2-9469-746347fc20fa.mp4"></video>
 
-#### 4. Localization
+#### Localization
 
 I contributed to the implementation and expansion of the localization system used throughout teora® mind. The system supported localized UI texts and assets across the application, including dynamic content generated at runtime, and was designed to support **12 languages**.
 
@@ -153,7 +152,7 @@ The screenshot shows different assets with localized materials that are automati
 
 <img width="750" alt="teora_localized_assets" src="https://github.com/user-attachments/assets/092bee8b-1d1a-4aa6-87e3-19cfee5cdbea"/>
 
-#### 5. Custom Cable System for Kitchen Coffee Machine
+#### Custom Cable System for Kitchen Coffee Machine
 
 For the kitchen environment, I developed a custom physics-based cable system to replace the previously used third-party plugin. <br>
 The goal was to reduce external dependencies while having more control over the system and its behavior.
@@ -231,3 +230,13 @@ I developed the tool and was responsible for its implementation, maintenance and
 <video src="https://github.com/user-attachments/assets/55114b43-09b2-4933-b481-38385b7157e0.mp4"></video>
 
 ---
+
+## 4. Quality Management & Regulatory Processes
+
+After the previous Head of Development/CTO left the company in 2024, their responsibilities were redistributed across the team. As I had already begun taking on more organizational and quality-related tasks, I became the **main internal point of contact for the quality management team**, as the most suitable successor from within the team. Therefore around 2025, alongside my software development work, I took on additional responsibilities within the internal quality management team at living brain.
+
+Since teora® mind was a Class IIa medical device, development was closely connected to documented processes, validation activities and regulatory requirements. Working closely with the QMB/PRRC and colleagues responsible for individual subject areas, I coordinated recurring QM activities, brought together input from different colleagues, and followed up on decisions and resulting actions.
+
+This included organizing and conducting weekly QM meetings, coordinating QMS changes, supporting tool validations, and contributing to activities such as data analysis, cybersecurity screenings and management reviews. I also helped maintain parts of the technical documentation, supported risk management discussions and day-to-day issues, and helped organize and carry out activities before, during and after internal and external audits.
+
+This experience gave me a practical understanding of how regulated software development works beyond implementation alone, particularly the importance of traceability, documented changes, validation and coordination between software development and quality management.
